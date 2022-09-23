@@ -27,7 +27,7 @@ public class testing extends Applet{
 <title> My Applet</title>
 <hr>
 
-<applet code="testing.class" width="300" height="300">
+<applet code="appletdemo.class" width="300" height="300">
 
 <param name="msg" value="This is a test program"/>
 
