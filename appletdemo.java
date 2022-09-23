@@ -1,6 +1,6 @@
 import java.applet.*;
 import java.awt.*;
-public class testing extends Applet{
+public class appletdemo extends Applet{
 	Font f;
     public void init(){
 		f = new Font("Arial", Font.BOLD, 26);
